@@ -6,4 +6,8 @@ stage area in git ::
 لازالة ملف تكتب git reset head (اسم الملف)
 
 لعكس التغييرات الى ال local repo :
-git commit
+git commit -m ""
+
+
+git branch لمعرفة البرانش 
+ git remote -v لمعرفة ال remote repo
